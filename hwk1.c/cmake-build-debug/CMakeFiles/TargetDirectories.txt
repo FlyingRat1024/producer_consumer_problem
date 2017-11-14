@@ -1,0 +1,3 @@
+/opt/CProject/hwk1.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/opt/CProject/hwk1.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/opt/CProject/hwk1.c/cmake-build-debug/CMakeFiles/hwk1_c.dir
